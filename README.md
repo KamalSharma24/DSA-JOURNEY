@@ -15,4 +15,12 @@ Daily DSA problem-solving log — solutions organized by pattern, with complexit
 |  |
 | ------- |
 | [0242-valid-anagram](https://github.com/KamalSharma24/DSA-JOURNEY/tree/master/0242-valid-anagram) |
+## Array
+|  |
+| ------- |
+| [0136-single-number](https://github.com/KamalSharma24/DSA-JOURNEY/tree/master/0136-single-number) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0136-single-number](https://github.com/KamalSharma24/DSA-JOURNEY/tree/master/0136-single-number) |
 <!---LeetCode Topics End-->
